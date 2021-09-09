@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Azamat Zhamankulov
-#### I am a Web-Developer and member of team CoDem
+#### I am member of team CoDem and future Web-Developer
 ![I am member of team CoDem and future Web-Developer](https://user-images.githubusercontent.com/88055930/132406739-23ed47a1-7415-4e87-adde-14b099ed5a53.png)
 
 As our team slogan is "Live & Learn", I am ready to follow this, be on progress always and never stop growing up or build up my self
