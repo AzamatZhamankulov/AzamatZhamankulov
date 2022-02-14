@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Azamat Zhamankulov
-#### I am member of team CoDem and future Web-Developer
-![I am member of team CoDem and future Web-Developer](https://user-images.githubusercontent.com/88055930/132739368-e04a8f45-1bef-443a-aba2-f04d27a97051.png)
+#### I am Web-Developer of the Kelechek.Digital web studio and member of the CoDem
+![I am Web-Developer of the Kelechek.Digital web studio and member of the CoDem](https://user-images.githubusercontent.com/88055930/132739368-e04a8f45-1bef-443a-aba2-f04d27a97051.png)
 
 As our team slogan is "Live & Learn", I am ready to follow this, be on progress always and never stop growing up or build up my sel
 
 Skills: REACT / JS / HTML / CSS / SASS / Bootstrap
 
-- 🔭 I’m currently working on Corporation DEM 
-- 🌱 I’m currently learning Web-Development 
+- 🔭 I’m currently working on kelechek.digital web studio 
+- 🌱 I’m currently learning Web-Development and member of Corporation DEM 
 - 💬 Ask me about HTML / CSS / SASS / Bootstrap 
 - 📫 How to reach me: azamat.zhamankulov.kk@gmail.com 
 
