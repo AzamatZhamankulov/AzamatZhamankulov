@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Azamat Zhamankulov
-#### I am Web-Developer of the Kelechek.Digital web studio and member of the CoDem
+#### I am Front-End Web-Developer of the Kelechek.Digital web studio and member of the comunity Choyro ( visit us: https://choyro.com)
 ![I am Web-Developer of the Kelechek.Digital web studio and member of the CoDem](https://user-images.githubusercontent.com/88055930/132739368-e04a8f45-1bef-443a-aba2-f04d27a97051.png)
 
 As our team slogan is "Live & Learn", I am ready to follow this, be on progress always and never stop growing up or build up my self
